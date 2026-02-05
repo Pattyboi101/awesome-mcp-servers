@@ -426,6 +426,7 @@ Integration with communication platforms for message management and channel oper
 - [wyattjoh/jmap-mcp](https://github.com/wyattjoh/jmap-mcp) 📇 ☁️ - A Model Context Protocol (MCP) server that provides tools for interacting with JMAP (JSON Meta Application Protocol) email servers. Built with Deno and using the jmap-jam client library.
 - [YCloud-Developers/ycloud-whatsapp-mcp-server](https://github.com/YCloud-Developers/ycloud-whatsapp-mcp-server) 📇 🏠 - MCP server for WhatsApp Business Platform by YCloud.
 - [zcaceres/gtasks-mcp](https://github.com/zcaceres/gtasks-mcp) 📇 ☁️ - An MCP server to Manage Google Tasks
+- [GovLink](https://govlink.fly.dev/mcp) - Verify US business entity registrations. Returns status, good standing, formation date, registered agent for all 50 US states. Useful for KYB compliance and due diligence workflows.  
 - [ztxtxwd/open-feishu-mcp-server](https://github.com/ztxtxwd/open-feishu-mcp-server) 📇 ☁️ 🏠 - A Model Context Protocol (MCP) server with built-in Feishu OAuth authentication, supporting remote connections and providing comprehensive Feishu document management tools including block creation, content updates, and advanced features.
 
 
