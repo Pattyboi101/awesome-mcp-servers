@@ -129,6 +129,7 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 
 Servers for accessing many apps and tools through a single MCP server.
 
+- [Pattyboi101/indiestack](https://github.com/Pattyboi101/indiestack) 🐍 ☁️ 🍎 🪟  🐧 - Discovery layer between AI coding agents and 3,100+ proven developer tools. Health-aware search, cross-agent success rates, dependency auditing, and stack building. Install: `uvx --from indiestack indiestack-mcp`
 - [1mcp/agent](https://github.com/1mcp-app/agent) 📇 ☁️ 🏠 🍎 🪟 🐧 - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one.
 - [AgentHotspot](https://github.com/AgentHotspot/agenthotspot-mcp) 🐍 ☁️ 🏠 🍎 🪟 🐧 - Search, integrate and monetize MCP connectors on the AgentHotspot MCP marketplace
 - [askbudi/roundtable](https://github.com/askbudi/roundtable) 📇 ☁️ 🏠 🍎 🪟 🐧 - Meta-MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized MCP interface, providing zero-configuration access to the entire AI coding ecosystem.
